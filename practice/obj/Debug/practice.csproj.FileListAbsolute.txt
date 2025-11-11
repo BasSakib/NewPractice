@@ -1,0 +1,7 @@
+E:\Desktop\PORALEKHA\C SHARP\CODE\practice\practice\bin\Debug\practice.exe.config
+E:\Desktop\PORALEKHA\C SHARP\CODE\practice\practice\bin\Debug\practice.exe
+E:\Desktop\PORALEKHA\C SHARP\CODE\practice\practice\bin\Debug\practice.pdb
+E:\Desktop\PORALEKHA\C SHARP\CODE\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+E:\Desktop\PORALEKHA\C SHARP\CODE\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+E:\Desktop\PORALEKHA\C SHARP\CODE\practice\practice\obj\Debug\practice.exe
+E:\Desktop\PORALEKHA\C SHARP\CODE\practice\practice\obj\Debug\practice.pdb
